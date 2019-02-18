@@ -1,0 +1,27 @@
+{
+  "authors": [
+    {
+      "email": "migurski@php.net",
+      "name": "Michal Migurski  ",
+      "role": "Lead"
+    },
+    {
+      "email": "alan@akbkhome.com",
+      "name": "Alan Knowles",
+      "role": "Lead"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ServicesJSON\\": "src/"
+    }
+  },
+  "description": "More info available on: http://pear.php.net/package/Services_JSON",
+  "license": "BSD",
+  "name": "pear/services_json",
+  "support": {
+    "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Services_JSON",
+    "source": "https://github.com/pear/Services_JSON"
+  },
+  "type": "library"
+}
